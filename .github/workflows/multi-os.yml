@@ -44,4 +44,4 @@ jobs:
         run: |
           echo "Running on $OS_TYPE"
           uname -a
-          echo "Environment variable: $OS_TYPE"
+        echo "Environment variable: $OS_TYPE"
