@@ -1,5 +1,4 @@
-name: Multi-OS Workflow
- 
+name: Multi-OS Workflow 
 on:
   workflow_dispatch:
  
